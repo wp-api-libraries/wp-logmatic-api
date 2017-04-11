@@ -1,2 +1,2 @@
 # wp-logmatic-api
-A WordPress library for Logmatic API
+A WordPress library for [Logmatic API](https://doc.logmatic.io/)
